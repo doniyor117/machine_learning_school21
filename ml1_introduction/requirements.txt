@@ -2,14 +2,8 @@ pandas
 notebook
 numpy
 scikit-learn
-scipy
 statsmodels
 matplotlib
 seaborn
-optuna
 lightgbm
-catboost
-umap
-torch
-annoy
-nmslib
+scipy

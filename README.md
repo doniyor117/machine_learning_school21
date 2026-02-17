@@ -1,6 +1,7 @@
-# Machine Learning Fundamentals (School 21)
+# Machine Learning Fundamentals
 
-A collection of machine learning projects implementing core algorithms and data processing techniques. This repository focuses on the mathematical foundations of ML, including building models from scratch to understand the underlying logic before utilizing high-level libraries.
+A personal archive of my machine learning studies and experiments
+These are not optimized for production, they are built to help grasp the underlying calculus and linear algebra before moving on to tools like Scikit-Learn and TensorFlow."
 
 Developed as part of the **School 21 (Ecole 42)** Data Science curriculum.
 
@@ -48,6 +49,6 @@ Developed as part of the **School 21 (Ecole 42)** Data Science curriculum.
 
 *Note: Large datasets are not included in this repository to maintain strict version control.*
 
-Each project folder contains a `data/` directory structure. To reproduce the results:
-1.  Download the specific dataset (links provided in the respective project notebooks).
-2.  Place the `.csv` files into the `data/` folder of the specific project.
+Each project folder contains a `data/` directory structure.
+To reproduce the results run the cell for downloading the data from
+kaggle ( it asks you your kaggle username and legacy API key ).
