@@ -1,6 +1,6 @@
 # Machine Learning Fundamentals
 
-A personal archive of my machine learning studies and experiments\n
+A personal archive of my machine learning studies and experiments.
 These are not optimized for production, they are built to help grasp the underlying calculus and linear algebra before moving on to tools like Scikit-Learn and TensorFlow.
 
 Developed as part of the **School 21 (Ecole 42)** Data Science curriculum.
